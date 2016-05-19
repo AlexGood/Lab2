@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemLabor2", "SystemLabor2\SystemLabor2.csproj", "{DD5C6002-083E-44A5-A322-610F27D7D064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemaphoreExample", "SemaphoreExample\SemaphoreExample.csproj", "{6C2247F8-235C-467A-921B-663AED12FC40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileReader", "FileReader\FileReader.csproj", "{044AE72E-68FB-4A7F-AACF-54879D9256F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD5C6002-083E-44A5-A322-610F27D7D064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD5C6002-083E-44A5-A322-610F27D7D064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD5C6002-083E-44A5-A322-610F27D7D064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD5C6002-083E-44A5-A322-610F27D7D064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C2247F8-235C-467A-921B-663AED12FC40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2247F8-235C-467A-921B-663AED12FC40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2247F8-235C-467A-921B-663AED12FC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2247F8-235C-467A-921B-663AED12FC40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{044AE72E-68FB-4A7F-AACF-54879D9256F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044AE72E-68FB-4A7F-AACF-54879D9256F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044AE72E-68FB-4A7F-AACF-54879D9256F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044AE72E-68FB-4A7F-AACF-54879D9256F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

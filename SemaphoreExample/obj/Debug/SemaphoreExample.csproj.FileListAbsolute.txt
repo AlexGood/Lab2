@@ -1,0 +1,5 @@
+E:\Projects\VisualStudio\SystemLabor2\SemaphoreExample\bin\Debug\SemaphoreExample.exe.config
+E:\Projects\VisualStudio\SystemLabor2\SemaphoreExample\bin\Debug\SemaphoreExample.exe
+E:\Projects\VisualStudio\SystemLabor2\SemaphoreExample\bin\Debug\SemaphoreExample.pdb
+E:\Projects\VisualStudio\SystemLabor2\SemaphoreExample\obj\Debug\SemaphoreExample.exe
+E:\Projects\VisualStudio\SystemLabor2\SemaphoreExample\obj\Debug\SemaphoreExample.pdb

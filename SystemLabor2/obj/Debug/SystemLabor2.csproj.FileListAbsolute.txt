@@ -1,0 +1,6 @@
+E:\Projects\VisualStudio\SystemLabor2\SystemLabor2\bin\Debug\SystemLabor2.exe.config
+E:\Projects\VisualStudio\SystemLabor2\SystemLabor2\bin\Debug\SystemLabor2.exe
+E:\Projects\VisualStudio\SystemLabor2\SystemLabor2\bin\Debug\SystemLabor2.pdb
+E:\Projects\VisualStudio\SystemLabor2\SystemLabor2\obj\Debug\SystemLabor2.csprojResolveAssemblyReference.cache
+E:\Projects\VisualStudio\SystemLabor2\SystemLabor2\obj\Debug\SystemLabor2.exe
+E:\Projects\VisualStudio\SystemLabor2\SystemLabor2\obj\Debug\SystemLabor2.pdb
